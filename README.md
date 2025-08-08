@@ -62,6 +62,17 @@ We used the pre-trained BERT base model and fine-tuned it for text classificatio
 
 - Its bidirectional nature allows it to look at both the left and right context of a word, helping detect hidden or nuanced abusive intent.
 
+## Tools & Technologies Used
+
+- Python
+
+- Pandas / NumPy for data manipulation
+
+- PyTorch for model training
+
+- Transformers (HuggingFace) for BERT model and tokenizer
+
+- Matplotlib / Seaborn for data visualization
 
 ## RESULTS
 
